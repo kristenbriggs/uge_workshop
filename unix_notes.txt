@@ -1,0 +1,161 @@
+cd
+history | sort | less
+history | sort
+man man
+history | less
+Help
+h
+qc2movie
+q
+history
+/pattern
+history
+pwd
+p
+ls .
+cd music/iTunes/
+cd
+d
+cd ../../
+cd ...
+cd Music/
+cd ..
+ls ..
+cd Library/
+cd Movies/
+cd mo
+cd Mu
+ls
+la
+help function
+$ ls --h
+man ls
+man -h
+man environment
+man ls
+man lscolors
+man -m
+-m
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kristenbriggs@gmail.com'
+git config --global user.name 'KRISTEN BRIGGS'
+git --version
+brew install git
+echo $PATH
+ech
+subl /etc/paths
+ech $PATH
+echo $p
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+1234
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+/Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled 1 --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+History command - shows all entries
+*Remember to Google bash redirection
+history | less = shows last full page of history, and takes output from first command to input of second command.
+history | sort = sorts history alphabetically.
+*Remember to Google piping and chaining.
+history > moving_around.txt = a rediretion operator, this command overrides the previous history.
+history >> moving_around.txt =
+Q = returns to terminal command line
+Man ls = manual user commands
+Flags = modifications
+Paths = locations
+
+ll
+less moving_around.txt
+nano moving_around.txt
+cat moving_around.txt
+history > moving_around.txt
+cd
+history | sort | less
+history | sort
+man man
+history | less
+Help
+h
+qc2movie
+q
+history
+/pattern
+history
+pwd
+p
+ls .
+cd music/iTunes/
+cd
+d
+cd ../../
+cd ...
+cd Music/
+cd ..
+ls ..
+cd Library/
+cd Movies/
+cd mo
+cd Mu
+ls
+la
+help function
+$ ls --h
+man ls
+man -h
+man environment
+man ls
+man lscolors
+man -m
+-m
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'kristenbriggs@gmail.com'
+git config --global user.name 'KRISTEN BRIGGS'
+git --version
+brew install git
+echo $PATH
+ech
+subl /etc/paths
+ech $PATH
+echo $p
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+1234
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ Yosemite.app
+sudo /Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+/Applications/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled 1 --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled/ --applicationpath /Applications/Install OS X Yosemite.app/ --nointeraction
+sudo /Applications/InstallOSXYosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app --nointeraction
+sudo /Applications/Install OS X Yosemite.app/Contents/Resources/createinstallmedia --volume /Volumes/Untitled --applicationpath /Applications/Install OS X Yosemite.app- -nointeraction
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia
+sudo/Users/admin/Desktop/tdcurran/Install\ OS\ X\ Yosemite.app/Contents/Resources/createinstallmedia --/Volumes/Untitled --applicationpath /Applications/install OS X Yosemite.app --nointeraction
