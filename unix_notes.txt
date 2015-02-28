@@ -78,6 +78,7 @@ Q = returns to terminal command line
 Man ls = manual user commands
 Flags = modifications
 Paths = locations
+Guess I was supposed to make some changes to this file...
 
 ll
 less moving_around.txt
